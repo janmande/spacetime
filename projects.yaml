@@ -1,0 +1,26 @@
+- code: '7000'
+  name: Generelt I&U
+- code: '7002'
+  name: DyST Plattform
+- code: '7003'
+  name: Customer Portal
+- code: '7101'
+  name: ESA VProMEP
+- code: '7226'
+  name: MaSSha 2
+- code: '7227'
+  name: MAPS
+- code: '7230'
+  name: VDES Generelt
+- code: '7281'
+  name: OSSI
+- code: '7282'
+  name: ADIS
+- code: '7284'
+  name: Referansestasjon ADIS
+- code: '7610'
+  name: DYNAPORT
+- code: '7630'
+  name: AutoSatOp
+- code: '7640'
+  name: MikroSatOps
